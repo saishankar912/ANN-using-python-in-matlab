@@ -1,1 +1,1 @@
-# ANN-using-python-in-matlab
+Led performance analysis of Artificial Neural Networks (ANN) and for optimal power point tracking in renewable energy systems.Engineered a refined control system, achieving a 15% increase in power and speed with ANN compared to fuzzy logic.
